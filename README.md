@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @leandrofreire13, I work with Sales and I like technologie
+- 👋 This is my new Github Profile
+- Hi, I’m @leandrofreire13, I work with Sales and I like technologie
 - 👀 I’m interested in learning how to code just as a hobby 
 - 🌱 I’m currently learning JavaScript
 
